@@ -1,4 +1,13 @@
-Teste_Aeroporto
-===========
+# cadmus-server
+Cadmus challenge server
 
-Teste Entrevista NS
+- Instalar pacotes
+  -> Na pasta do projeto
+  \$ npm install
+
+- Start server localhost
+  -> In Server folder
+  \$ npm start
+
+- Stop server localhost
+  \$ Ctrl + C
